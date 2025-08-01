@@ -26,3 +26,31 @@
 pip install pynput
 ```
 _______________________________________________________________________________________________________
+
+# ClickMaster
+
+🎯 **ClickMaster** is a visible and customizable autoclicker with a GUI in Python.
+Supports intervals, click count, mouse button selection, hotkey, and position fixation.
+
+## 🖥️ Features
+
+- Set the interval between clicks: hours, minutes, seconds, milliseconds.
+- Select the number of clicks or infinite mode
+- Support single and double click
+- Click on the current or specified oxygen position.
+- Hotkeys:
+- `F6` — start
+- `F7` — stop
+- `F8` — switch
+- `F9` — select position (if fixed is selected)
+
+## 📦 Dependency
+
+- Python 3.7+
+- `tkinter` (built into Python)
+- `pynput`
+
+Installing dependencies:
+```bash
+pip install pynput
+```
